@@ -1,7 +1,5 @@
 # ENGO551-Lab6
 
-# Project Title: ENGO551 Lab 5
-
 ## Description
 This project is a simple web application that allows users to draw, simplify, and remove polylines on a Leaflet map. The map is centered on Calgary, Alberta.
 
